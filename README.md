@@ -11,16 +11,6 @@ Eu sou o Antônio Gabriel, tenho 20 anos e sou de Maceió Alagoas. Concluí o en
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
