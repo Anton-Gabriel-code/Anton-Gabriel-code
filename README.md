@@ -15,6 +15,8 @@ Eu sou o Antônio Gabriel, tenho 20 anos e sou de Maceió Alagoas. Concluí o en
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" align = "left"  />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" align = "left"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="linux logo" align = "left"  />
   
 
 <br/>
