@@ -1,5 +1,7 @@
-<h1>👨🏽‍💻 Antônio Gabriel</h1>
 
+<div align = "center"> 
+<h1>👨🏽‍💻 Antônio Gabriel</h1>
+</div>
 <h2 align="center">Hi, I'm Antônio Gabriel, a CS student passionate about Web Development and Data Analysis, always learning something new.</h2>
 
 <div align="center">
