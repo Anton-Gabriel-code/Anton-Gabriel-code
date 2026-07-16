@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Antônio Gabriel
 
-**`Graduando em CS e interessado por Desenvolviemento Web e Análise de Dados`**
+<h2 align="center">Hi, I'm Antônio Gabriel, a CS student passionate about Web Development and Data Analysis, always learning something new.</h2>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVscjJzbGZtanZxZ3c0aGVxdmJmODd4b3JoZXRrYWtlbmR6MjdrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1U4S8219ByoGk/giphy.gif"  />
