@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/users/Anton-Gabriel-code/achievements/pull-shark" height="150" alt="stats graph"  />
+  <img src="" height="150" alt="stats graph"  />
   <img src="" height="150" alt="languages graph"  />
   <img src="" height="150" alt="trophy graph"  />
 </div>
