@@ -8,9 +8,9 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="" height="150" alt="stats graph"  />
+  <img src="" height="150" alt="languages graph"  />
+  <img src="" height="150" alt="trophy graph"  />
 </div>
 
 ---
