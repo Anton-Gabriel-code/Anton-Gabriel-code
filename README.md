@@ -1,4 +1,4 @@
-<h1 👨🏽‍💻 Antônio Gabriel/  </h1>
+## 👨🏽‍💻 Antônio Gabriel
 
 <h2 align="center">Hi, I'm Antônio Gabriel, a CS student passionate about Web Development and Data Analysis, always learning something new.</h2>
 
