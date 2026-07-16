@@ -19,12 +19,12 @@ Eu sou o Antônio Gabriel, tenho 20 anos e sou de Maceió Alagoas. Concluí o en
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt = "Python logo" title = "Python"
+/> <img width="30px" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux logo" title = "Linux"  />
+  <img width="30px" />
 
 <br/>
 <br/>
