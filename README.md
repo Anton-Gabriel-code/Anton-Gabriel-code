@@ -6,6 +6,13 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVscjJzbGZtanZxZ3c0aGVxdmJmODd4b3JoZXRrYWtlbmR6MjdrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1U4S8219ByoGk/giphy.gif"  />
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Antonio-Gabriel-code/Antonio-Gabriel-code/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
